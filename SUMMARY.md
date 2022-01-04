@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Blockchain Soft knowledge](README.md)
+* [ETC](README.md)
+* [Opensea](opensea.md)
